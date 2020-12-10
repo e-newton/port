@@ -1,0 +1,145 @@
+html, body {
+  background-color: #1B1922;
+  font-size: 1em;
+  line-height: 1.4;
+  scroll-behavior: smooth;
+  margin-bottom: 10vh;
+}
+
+h1, h2, h3, h4, h5, h6, p, td, li{
+  color: #ffffff;
+  background-color: rgba(0,0,0,0);
+  font-family: "Montserrat", serif;
+}
+li{
+  font-size: 16px;
+  padding-bottom: 18px;
+}
+
+p{
+  font-size: 18px;
+}
+
+.project:hover{
+  text-decoration: #00000000;
+  background-color: white;
+
+}
+.project{
+  transition-duration: 0.2s;
+  background-color: #9BF8DC;
+  border-radius: 15%
+}
+
+#name{
+  font-size: 86px;
+  font-weight: 600;
+}
+#web-dev{
+  color: #FB1915;
+  font-size: 36px;
+  font-weight: 300;
+}
+#about-me, #projects{
+  top: -14px;
+  left: 20px;
+  position: absolute;
+  z-index: 10;
+  background-color: #1B1922;
+  padding-left: 3%;
+  padding-right: 3%;
+  color: #9BF8DC;
+
+
+}
+.list-group-item{
+  background-color: #7247401f;
+  color: white;
+
+}
+.list-group-item.active{
+  color: #1B1922;
+  background-color: #9BF8DC;
+  border-color: #9BF8DC;
+}
+
+#nav-boy{
+  position: fixed;
+}
+
+#work{
+  top: -14px;
+  right: 20px;
+  position: absolute;
+  z-index: 10;
+  background-color: #1B1922;
+  padding-left: 3%;
+  padding-right: 3%;
+  color: #9BF8DC;
+
+
+}
+#my-face{
+  border: 2px solid #9BF8DC;
+  box-sizing: border-box;
+  border-radius: 15px;
+  height: fit-content;
+
+}
+
+.info-section{
+  border: 2px solid #9BF8DC;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+#sidebar{
+  visibility: hidden;
+  position: fixed;
+  right:3%;
+  top: 10%;
+
+}
+.menu-boy{
+  color: rgba(256, 256, 256, 0.7);
+  transition-duration: 0.2s;
+  text-decoration: #00000000;
+}
+.menu-boy:hover, .nav-item:hover, .nav-link:hover{
+  color: #9BF8DC;
+  text-decoration: #00000000;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+  text-align: right;
+}
+
+
+
+@media (min-width: 576px) {
+  #name{
+    font-size: 96px;
+  }
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+  #sidebar{
+    visibility: visible;
+  }
+  #nav-boy{
+    visibility: hidden;
+  }
+
+}
+
+@media (min-width: 1200px) {
+
+}
