@@ -6,7 +6,7 @@ html, body {
   margin-bottom: 10vh;
 }
 
-h1, h2, h3, h4, h5, h6, p, td, li{
+h1, h2, h3, h4, h5, h6, p, td, li, button{
   color: #ffffff;
   background-color: rgba(0,0,0,0);
   font-family: "Montserrat", serif;
@@ -52,6 +52,12 @@ p{
 
 
 }
+.hover{
+  transition-duration: 0.2s;
+}
+.hover:hover{
+  box-shadow: 0 0 10px 3px #9BF8DC;
+}
 .list-group-item{
   background-color: #7247401f;
   color: white;
@@ -78,6 +84,14 @@ p{
   color: #9BF8DC;
 
 
+}
+
+#resume{
+  position: absolute;
+  background-color: #9BF8DC;
+  padding: 15px;
+  right:32px;
+  top:15px;
 }
 #my-face{
   border: 2px solid #9BF8DC;

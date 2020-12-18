@@ -2,44 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/port.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eric_Headshot_Square-removebg-preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/js.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tile-wide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eric Newton Resume 2021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/communal_void.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mla-letter-generator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ramblings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,30 +71,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607572516270</updated>
-      <workItem from="1607572518832" duration="11852000" />
+      <workItem from="1607572518832" duration="15864000" />
+      <workItem from="1607642485315" duration="2598000" />
     </task>
+    <task id="LOCAL-00001" summary="FINISHED BOOOOOIS">
+      <created>1607584551060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607584551060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="FINISHED BOOOOOIS" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINISHED BOOOOOIS" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1492" height="496" key="GridCell.Tab.0.bottom" timestamp="1607574507253">
+    <state x="358" y="416" key="CommitChangelistDialog2" timestamp="1607584550156">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1492" height="496" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1607574507253" />
-    <state width="1492" height="496" key="GridCell.Tab.0.center" timestamp="1607574507253">
+    <state x="358" y="416" key="CommitChangelistDialog2/0.0.3072.1688@0.0.3072.1688" timestamp="1607584550156" />
+    <state width="3029" height="493" key="GridCell.Tab.0.bottom" timestamp="1607645085066">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1492" height="496" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1607574507253" />
-    <state width="1492" height="496" key="GridCell.Tab.0.left" timestamp="1607574507253">
+    <state width="3029" height="493" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085066" />
+    <state width="3029" height="493" key="GridCell.Tab.0.center" timestamp="1607645085065">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1492" height="496" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1607574507253" />
-    <state width="1492" height="496" key="GridCell.Tab.0.right" timestamp="1607574507253">
+    <state width="3029" height="493" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085065" />
+    <state width="3029" height="493" key="GridCell.Tab.0.left" timestamp="1607645085065">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1492" height="496" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1607574507253" />
+    <state width="3029" height="493" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085065" />
+    <state width="3029" height="493" key="GridCell.Tab.0.right" timestamp="1607645085066">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="493" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085066" />
     <state x="392" y="406" key="run.anything.popup" timestamp="1607582967377">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
