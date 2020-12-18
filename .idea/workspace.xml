@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Added GHForest">
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting..cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting..cache" afterDir="false" />
+    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Added Lazy Loading to images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -84,7 +83,7 @@
       <updated>1607572516270</updated>
       <workItem from="1607572518832" duration="15864000" />
       <workItem from="1607642485315" duration="2598000" />
-      <workItem from="1608321673355" duration="2046000" />
+      <workItem from="1608321673355" duration="2473000" />
     </task>
     <task id="LOCAL-00001" summary="FINISHED BOOOOOIS">
       <created>1607584551060</created>
@@ -114,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608332596330</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Lazy Loading to images">
+      <created>1608333019355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608333019355</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +143,8 @@
     <MESSAGE value="Fixed spacing of title and got rid of the resume button" />
     <MESSAGE value="Added a title" />
     <MESSAGE value="Added GHForest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added GHForest" />
+    <MESSAGE value="Added Lazy Loading to images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Lazy Loading to images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="358" y="416" key="CommitChangelistDialog2" timestamp="1607584550156">
@@ -164,10 +171,10 @@
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608332599624" />
     <state width="3029" height="493" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085066" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608332598108">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608333020694">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608332598108" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608333020694" />
     <state x="392" y="406" key="run.anything.popup" timestamp="1607582967377">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
