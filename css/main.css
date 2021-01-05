@@ -1,5 +1,18 @@
+:root{
+  --background-color: #1B1922;
+  --primary-colour: #9BF8DC;
+  --list-item-background-colour: #7247401f;
+  --project-border-colour: #9BF8DC90;
+  --project-info-colour: #7247401f;
+  --menu-boy-colour: rgba(256, 256, 256, 0.7);
+  --text-colour: white;
+  --glow-colour: white;
+  --accent-colour: #FB1915;
+  --contact-logo-colour: rgb(120, 194, 173);
+}
+
 html, body {
-  background-color: #1B1922;
+  background-color: var(--background-color);
   font-size: 1em;
   line-height: 1.4;
   scroll-behavior: smooth;
@@ -7,8 +20,8 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6, p, td, li, button{
-  color: #ffffff;
-  background-color: rgba(0,0,0,0);
+  color: var(--text-colour);
+  background-color: transparent;
   font-family: "Montserrat", serif;
 }
 li{
@@ -21,13 +34,13 @@ p{
 }
 
 .project:hover{
-  text-decoration: #00000000;
-  background-color: white;
+  text-decoration: transparent;
+  background-color: var(--glow-colour);
 
 }
 .project{
   transition-duration: 0.2s;
-  background-color: #9BF8DC;
+  background-color: var(--primary-colour);
   border-radius: 15%
 }
 
@@ -36,13 +49,13 @@ p{
   font-weight: 600;
 }
 #web-dev{
-  color: #FFFFFF;
+  color: var(--text-colour);
   font-size: 36px;
   font-weight: 300;
 }
 
 #blurb{
-  color: #FFFFFF;
+  color: var(--text-colour);
   font-size: 24px;
   font-weight: 300;
 }
@@ -51,10 +64,10 @@ p{
   left: 20px;
   position: absolute;
   z-index: 10;
-  background-color: #1B1922;
+  background-color: var(--background-color);
   padding-left: 3%;
   padding-right: 3%;
-  color: #9BF8DC;
+  color: var(--primary-colour);
 
 
 }
@@ -63,10 +76,10 @@ p{
   right: 20px;
   position: absolute;
   z-index: 10;
-  background-color: #1B1922;
+  background-color: var(--background-color);
   padding-left: 3%;
   padding-right: 3%;
-  color: #9BF8DC;
+  color: var(--background-color);
 
 
 }
@@ -74,17 +87,17 @@ p{
   transition-duration: 0.2s;
 }
 .hover:hover{
-  box-shadow: 0 0 10px 3px #ffffff;
+  box-shadow: 0 0 10px 3px var(--glow-colour);
 }
 .list-group-item{
-  background-color: #7247401f;
-  color: white;
+  background-color: var(--list-item-background-colour);
+  color: var(--text-colour);
 
 }
 .list-group-item.active{
-  color: #1B1922;
-  background-color: #9BF8DC;
-  border-color: #9BF8DC;
+  color: var(--background-color);
+  background-color: var(--primary-colour);
+  border-color: var(--primary-colour);
 }
 
 #nav-boy{
@@ -96,17 +109,17 @@ p{
   left: calc(50% - 64px);
   position: absolute;
   z-index: 10;
-  background-color: #1B1922;
+  background-color: var(--background-color);
   padding-left: 3%;
   padding-right: 3%;
-  color: #9BF8DC;
+  color: var(--primary-colour);
 
 
 }
 
 #resume{
   position: absolute;
-  background-color: #9BF8DC;
+  background-color: var(--primary-colour);
   padding: 15px;
   right:32px;
   top:15px;
@@ -119,7 +132,7 @@ p{
 }
 
 .info-section{
-  border: 2px solid #9BF8DC;
+  border: 2px solid var(--primary-colour);
   box-sizing: border-box;
   border-radius: 15px;
 }
@@ -132,13 +145,13 @@ p{
 
 }
 .menu-boy{
-  color: rgba(256, 256, 256, 0.7);
+  color: var(--menu-boy-colour);
   transition-duration: 0.2s;
-  text-decoration: #00000000;
+  text-decoration: transparent;
 }
 .menu-boy:hover, .nav-item:hover, .nav-link:hover{
-  color: #9BF8DC;
-  text-decoration: #00000000;
+  color: var(--primary-colour);
+  text-decoration: transparent;
 }
 
 ul.no-bullets {
