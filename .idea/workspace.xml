@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Changed image and intro blurb">
+    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Changed colours to CSS variables">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -97,7 +97,7 @@
       <workItem from="1607572518832" duration="15864000" />
       <workItem from="1607642485315" duration="2598000" />
       <workItem from="1608321673355" duration="2886000" />
-      <workItem from="1609826085909" duration="1730000" />
+      <workItem from="1609826085909" duration="3237000" />
     </task>
     <task id="LOCAL-00001" summary="FINISHED BOOOOOIS">
       <created>1607584551060</created>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609826878753</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changed colours to CSS variables">
+      <created>1609827864115</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609827864115</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,13 +210,18 @@
     <MESSAGE value="Added Alt Tags to Images" />
     <MESSAGE value="Changed positioning of section titles" />
     <MESSAGE value="Changed image and intro blurb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed image and intro blurb" />
+    <MESSAGE value="Changed colours to CSS variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed colours to CSS variables" />
   </component>
   <component name="WindowStateProjectService">
     <state x="358" y="416" key="CommitChangelistDialog2" timestamp="1607584550156">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="358" y="416" key="CommitChangelistDialog2/0.0.3072.1688@0.0.3072.1688" timestamp="1607584550156" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1609828206389">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1609828206389" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609826953311">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -230,10 +242,14 @@
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609826953310" />
     <state width="3029" height="493" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085066" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609826880113">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609827865547">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609826880113" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609827865547" />
+    <state x="527" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1609828165922">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="527" y="191" key="VcsDiffUtil.ChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1609828165922" />
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609826099684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -1,14 +1,14 @@
 :root{
-  --background-color: #1B1922;
-  --primary-colour: #9BF8DC;
-  --list-item-background-colour: #7247401f;
-  --project-border-colour: #9BF8DC90;
-  --project-info-colour: #7247401f;
-  --menu-boy-colour: rgba(256, 256, 256, 0.7);
-  --text-colour: white;
-  --glow-colour: white;
-  --accent-colour: #FB1915;
-  --contact-logo-colour: rgb(120, 194, 173);
+  --background-color: white;
+  --primary-colour: #BB7524;
+  --list-item-background-colour: #ede9e5;
+  --project-border-colour: #BB752490;
+  --project-info-colour: #ede9e5;
+  --menu-boy-colour: #131313;
+  --text-colour: #131313;
+  --glow-colour: #16446D;
+  --accent-colour: #16446D;
+  --contact-logo-colour: #16446D;
 }
 
 html, body {
@@ -49,7 +49,7 @@ p{
   font-weight: 600;
 }
 #web-dev{
-  color: var(--text-colour);
+  color: var(--accent-colour);
   font-size: 36px;
   font-weight: 300;
 }
@@ -92,12 +92,13 @@ p{
 .list-group-item{
   background-color: var(--list-item-background-colour);
   color: var(--text-colour);
+  border-color: transparent;
 
 }
 .list-group-item.active{
   color: var(--background-color);
-  background-color: var(--primary-colour);
-  border-color: var(--primary-colour);
+  background-color: var(--accent-colour);
+  border-color: var(--accent-colour);
 }
 
 #nav-boy{
@@ -125,6 +126,8 @@ p{
   top:15px;
 }
 #my-face{
+  border: 2px solid var(--text-colour);
+  background-color: var(--text-colour);
   box-sizing: border-box;
   border-radius: 15px;
   height: fit-content;
@@ -187,3 +190,13 @@ ul.no-bullets {
 @media (min-width: 1200px) {
 
 }
+
+.project-skills{
+
+}
+
+.project-description {
+  background-color: var(--project-info-colour);
+  border-radius: 15px;
+}
+
