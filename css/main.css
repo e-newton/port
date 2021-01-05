@@ -1,13 +1,39 @@
 :root{
+  --background-color-light: white;
+  --background-color-dark: #1B1922;
   --background-color: white;
+  --primary-colour-light: #BB7524;
+  --primary-colour-dark: #9BF8DC;
   --primary-colour: #BB7524;
+  --image-background-colour-light: #131313;
+  --image-background-colour-dark: transparent;
+  --image-background-colour: #131313;
+  --list-item-background-colour-light: #ede9e5;
+  --list-item-background-colour-dark: #7247401f;
   --list-item-background-colour: #ede9e5;
+  --project-border-colour-light: #BB752490;
+  --project-border-colour-dark: #9BF8DC90;
   --project-border-colour: #BB752490;
+  --project-info-colour-light: #ede9e5;
+  --project-info-colour-dark: rgb(38,31,37);
   --project-info-colour: #ede9e5;
+  --menu-boy-colour-light: #131313;
+  --menu-boy-colour-dark: rgba(255, 255, 255, 0.7);
   --menu-boy-colour: #131313;
+  --text-colour-light: #131313;
+  --text-colour-dark: white;
   --text-colour: #131313;
+  --glow-colour-light: #16446D;
+  --glow-colour-dark: white;
   --glow-colour: #16446D;
+  --accent-colour-light: #16446D;
+  --accent-colour-dark: #FB1915;
   --accent-colour: #16446D;
+  --list-group-active-colour-light: #16446D;
+  --list-group-active-colour-dark: #9BF8DC;
+  --list-group-active-colour: #16446D;
+  --contact-logo-colour-light: #16446D;
+  --contact-logo-colour-dark: #78c2ad;
   --contact-logo-colour: #16446D;
 }
 
@@ -79,7 +105,7 @@ p{
   background-color: var(--background-color);
   padding-left: 3%;
   padding-right: 3%;
-  color: var(--background-color);
+  color: var(--primary-colour);
 
 
 }
@@ -97,8 +123,8 @@ p{
 }
 .list-group-item.active{
   color: var(--background-color);
-  background-color: var(--accent-colour);
-  border-color: var(--accent-colour);
+  background-color: var(--list-group-active-colour);
+  border-color: var(--list-group-active-colour);
 }
 
 #nav-boy{
@@ -126,8 +152,8 @@ p{
   top:15px;
 }
 #my-face{
-  border: 2px solid var(--text-colour);
-  background-color: var(--text-colour);
+  border: 2px solid var(--image-background-colour);
+  background-color: var(--image-background-colour);
   box-sizing: border-box;
   border-radius: 15px;
   height: fit-content;

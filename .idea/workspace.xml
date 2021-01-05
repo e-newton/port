@@ -25,10 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Changed colours to CSS variables">
+    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Changed theme to light theme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +98,7 @@
       <workItem from="1607572518832" duration="15864000" />
       <workItem from="1607642485315" duration="2598000" />
       <workItem from="1608321673355" duration="2886000" />
-      <workItem from="1609826085909" duration="3237000" />
+      <workItem from="1609826085909" duration="6799000" />
     </task>
     <task id="LOCAL-00001" summary="FINISHED BOOOOOIS">
       <created>1607584551060</created>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609827864115</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changed theme to light theme">
+      <created>1609829635486</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609829635486</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +219,8 @@
     <MESSAGE value="Changed positioning of section titles" />
     <MESSAGE value="Changed image and intro blurb" />
     <MESSAGE value="Changed colours to CSS variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed colours to CSS variables" />
+    <MESSAGE value="Changed theme to light theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed theme to light theme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="358" y="416" key="CommitChangelistDialog2" timestamp="1607584550156">
@@ -222,30 +231,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1609828206389" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609826953311">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609832631007">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609826953311" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609832631007" />
     <state width="3029" height="493" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085066" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1609826953309">
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1609832631005">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609826953309" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609832631005" />
     <state width="3029" height="493" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085065" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1609826953308">
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1609832631003">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609826953308" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609832631003" />
     <state width="3029" height="493" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085065" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1609826953310">
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1609832631006">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609826953310" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609832631006" />
     <state width="3029" height="493" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085066" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609827865547">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609829637111">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609827865547" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609829637111" />
     <state x="527" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1609828165922">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
