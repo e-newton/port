@@ -36,8 +36,14 @@ p{
   font-weight: 600;
 }
 #web-dev{
-  color: #FB1915;
+  color: #FFFFFF;
   font-size: 36px;
+  font-weight: 300;
+}
+
+#blurb{
+  color: #FFFFFF;
+  font-size: 24px;
   font-weight: 300;
 }
 #about-me{
@@ -68,7 +74,7 @@ p{
   transition-duration: 0.2s;
 }
 .hover:hover{
-  box-shadow: 0 0 10px 3px #9BF8DC;
+  box-shadow: 0 0 10px 3px #ffffff;
 }
 .list-group-item{
   background-color: #7247401f;
@@ -106,7 +112,6 @@ p{
   top:15px;
 }
 #my-face{
-  border: 2px solid #9BF8DC;
   box-sizing: border-box;
   border-radius: 15px;
   height: fit-content;

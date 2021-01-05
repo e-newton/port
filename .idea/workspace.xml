@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Added Alt Tags to Images">
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting..cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting..cache" afterDir="false" />
+    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Changed positioning of section titles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1607572518832" duration="15864000" />
       <workItem from="1607642485315" duration="2598000" />
       <workItem from="1608321673355" duration="2886000" />
-      <workItem from="1609826085909" duration="139000" />
+      <workItem from="1609826085909" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="FINISHED BOOOOOIS">
       <created>1607584551060</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608424420314</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changed positioning of section titles">
+      <created>1609826248724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609826248724</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +170,8 @@
     <MESSAGE value="Added Lazy Loading to images" />
     <MESSAGE value="Updated images to WebP" />
     <MESSAGE value="Added Alt Tags to Images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Alt Tags to Images" />
+    <MESSAGE value="Changed positioning of section titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed positioning of section titles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="358" y="416" key="CommitChangelistDialog2" timestamp="1607584550156">
@@ -190,10 +198,10 @@
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608424455556" />
     <state width="3029" height="493" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1607645085066" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608424421667">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609826250188">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608424421667" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609826250188" />
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609826099684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
