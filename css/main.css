@@ -40,9 +40,21 @@ p{
   font-size: 36px;
   font-weight: 300;
 }
-#about-me, #projects{
+#about-me{
   top: -14px;
   left: 20px;
+  position: absolute;
+  z-index: 10;
+  background-color: #1B1922;
+  padding-left: 3%;
+  padding-right: 3%;
+  color: #9BF8DC;
+
+
+}
+#projects{
+  top: -14px;
+  right: 20px;
   position: absolute;
   z-index: 10;
   background-color: #1B1922;
@@ -75,7 +87,7 @@ p{
 
 #work{
   top: -14px;
-  right: 20px;
+  left: calc(50% - 64px);
   position: absolute;
   z-index: 10;
   background-color: #1B1922;
