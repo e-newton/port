@@ -25,12 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="Changed theme to light theme">
-      <change afterPath="$PROJECT_DIR$/favicon-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon-light.png" afterDir="false" />
+    <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tracker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting..cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting..cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +104,7 @@
       <workItem from="1607642485315" duration="2598000" />
       <workItem from="1608321673355" duration="2886000" />
       <workItem from="1609826085909" duration="6799000" />
+      <workItem from="1610485108019" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="FINISHED BOOOOOIS">
       <created>1607584551060</created>
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609829635486</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Changed some colours around, added dynamically changing favicon">
+      <created>1609874493184</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609874493184</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +233,7 @@
     <MESSAGE value="Changed image and intro blurb" />
     <MESSAGE value="Changed colours to CSS variables" />
     <MESSAGE value="Changed theme to light theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed theme to light theme" />
+    <MESSAGE value="Changed some colours around, added dynamically changing favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed some colours around, added dynamically changing favicon" />
   </component>
 </project>
