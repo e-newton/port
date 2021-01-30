@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d5d77f8-a87d-4b65-8d10-53f153c9585e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tracker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tracker.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vector_saver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vector_saver.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting..cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting..cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -104,7 +104,9 @@
       <workItem from="1607642485315" duration="2598000" />
       <workItem from="1608321673355" duration="2886000" />
       <workItem from="1609826085909" duration="6799000" />
-      <workItem from="1610485108019" duration="369000" />
+      <workItem from="1610485108019" duration="1026000" />
+      <workItem from="1610561785931" duration="11000" />
+      <workItem from="1612034884653" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="FINISHED BOOOOOIS">
       <created>1607584551060</created>
@@ -190,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609874493184</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added COVID Tracker project">
+      <created>1610485494517</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610485494517</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +243,7 @@
     <MESSAGE value="Changed colours to CSS variables" />
     <MESSAGE value="Changed theme to light theme" />
     <MESSAGE value="Changed some colours around, added dynamically changing favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed some colours around, added dynamically changing favicon" />
+    <MESSAGE value="Added COVID Tracker project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added COVID Tracker project" />
   </component>
 </project>
